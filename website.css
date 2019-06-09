@@ -1,0 +1,189 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+}
+
+h1 {
+  color: #366ed8;
+  font-size: 5rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Pacifico', cursive;
+}
+
+.profile {
+  width: 10%;
+  position: relative;
+  top: 10px;
+  bottom: 0;
+  border-radius: 30%;
+  border-style: dotted;
+  border-width: 5px;
+}
+
+h2 {
+  color: red;
+  padding-top: 0;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Pacifico', cursive;
+  position: relative;
+}
+
+.f {
+  text-align: left;
+  font-size: 30px;
+  color: red;
+}
+
+.s {
+  text-align: right;
+  font-size: 30px;
+  padding-top: 10px;
+  padding-left: 10px;
+  color: red;
+}
+
+h3 {
+  color: red;
+  font-family: 'Pacifico', cursive;
+  font-size: 1.5rem;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.top {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 150px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 100px;
+  bottom: 300px;
+}
+
+.mountain {
+  position: relative;
+  left: 50px;
+}
+
+.skills {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: center;
+}
+
+.football {
+  width: 100%;
+  font-weight: bold;
+  margin-right: 30px;
+  position: relative;
+  right: 10px;
+}
+
+.sketching {
+  width: 100%;
+  font-weight: bold;
+  margin-right: 30px;
+  position: relative;
+  left: 100px;
+  padding-bottom: 10px;
+}
+
+.foot {
+  width: 25%;
+  position: relative;
+  left: 150px;
+  float: right;
+  border-radius: 100%;
+}
+
+.sketch {
+  width: 25%;
+  position: relative;
+  right: 200px;
+  float: left;
+  border-radius: 100%;
+}
+
+hr {
+  border-style: dotted;
+  border-bottom: 5px;
+  border-width: thick;
+  border-color: grey;
+  width: 5%;
+}
+
+.contact-me {
+  position: relative;
+  left: 400px;
+  top: 45px;
+  float: left;
+  padding-top: 10px;
+  width: 4%;
+}
+
+.button {
+  background-color: #366ed8;
+  margin-bottom: 10px;
+  color: black;
+  padding: 10px;
+  text-align: center;
+  font-weight: bold;
+  display: inline-block;
+  font-size: 20px;
+  padding-bottom: 5px;
+  border-radius: 100%;
+}
+
+.down {
+  background-color: #94fc13;
+  border-spacing: 10px;
+  font-size: 30px;
+  line-height: 1;
+  padding-top: 10px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.l {
+  background-color: #94fc13;
+  padding-top: 30px;
+  padding-bottom: 0.5px;
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-size: 30px;
+}
+
+.g {
+  padding-bottom: 0;
+  margin-bottom: 0;
+  font-size: 20px;
+}
+
+.f1 {
+  position: absolute;
+  left: 400px;
+}
+
+.f2 {
+  position: absolute;
+  left: 650px;
+}
+
+.f3 {
+  position: absolute;
+  right: 400px;
+}
